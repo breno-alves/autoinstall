@@ -10,6 +10,9 @@ sudo apt-get -y -f install software-properties-common
 echo "installing git..."
 sudo apt-get -y -f install git
 
+echo "installing gedit"
+sudo apt-get -y -f install gedit
+
 echo "installing vim"
 sudo apt-get -y -f install vim-gtk3
 
@@ -18,6 +21,9 @@ sudo apt-get -y -f install neovim
 
 echo "installing curl"
 sudo apt-get -y -f install curl
+
+echo "installing wget"
+sudo apt-get -y -f install wget
 
 echo "installing net-tools"
 sudo apt-get -y -f install net-tools
@@ -134,5 +140,10 @@ sudo apt-get -y -f install gimp
 
 echo "installing qbittorrent.."
 sudo apt-get -y -f install qbittorrent
+
+# may not work 
+#echo "installing stremio"
+#wget -P /tmp/ https://dl.strem.io/linux/v4.4.106/stremio_4.4.106-1_amd64.deb
+#sudo gdebi /tmp/stremio_4.4.106-1_amd64.deb
 
 echo "DONE!"

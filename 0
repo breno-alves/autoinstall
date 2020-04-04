@@ -1,0 +1,501 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+arandr is already the newest version (0.1.9-2).
+The following packages were automatically installed and are no longer required:
+  fwupd fwupd-signed fwupdate fwupdate-signed libfwup1 libfwupd2 libido3-0.1-0
+  libsmbios-c2 libxmlb1
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+OK
+deb [arch=amd64] https://brave-browser-apt-release.s3.brave.com/ bionic main
+Hit:1 http://br.archive.ubuntu.com/ubuntu bionic InRelease
+Get:2 https://brave-browser-apt-release.s3.brave.com bionic InRelease [3.169 B]
+Get:3 http://br.archive.ubuntu.com/ubuntu bionic-updates InRelease [88,7 kB]
+Get:4 https://brave-browser-apt-release.s3.brave.com bionic/main amd64 Packages [4.541 B]
+Get:5 http://br.archive.ubuntu.com/ubuntu bionic-backports InRelease [74,6 kB]
+Get:6 http://security.ubuntu.com/ubuntu bionic-security InRelease [88,7 kB]
+Get:7 http://br.archive.ubuntu.com/ubuntu bionic-updates/main amd64 DEP-11 Metadata [307 kB]
+Get:8 http://ppa.launchpad.net/elementary-os/stable/ubuntu bionic InRelease [15,4 kB]
+Hit:9 https://deb.nodesource.com/node_13.x bionic InRelease
+Get:10 http://packages.elementary.io/appcenter bionic InRelease [5.908 B]
+Get:11 http://br.archive.ubuntu.com/ubuntu bionic-updates/main DEP-11 48x48 Icons [73,8 kB]
+Get:12 http://br.archive.ubuntu.com/ubuntu bionic-updates/main DEP-11 64x64 Icons [140 kB]
+Get:13 http://br.archive.ubuntu.com/ubuntu bionic-updates/main DEP-11 128x128 Icons [357 kB]
+Get:14 http://br.archive.ubuntu.com/ubuntu bionic-updates/universe i386 Packages [1.012 kB]
+Hit:15 https://dl.yarnpkg.com/debian stable InRelease
+Hit:16 http://ppa.launchpad.net/obsproject/obs-studio/ubuntu bionic InRelease
+Get:17 http://br.archive.ubuntu.com/ubuntu bionic-updates/universe amd64 Packages [1.061 kB]
+Get:18 http://br.archive.ubuntu.com/ubuntu bionic-updates/universe amd64 DEP-11 Metadata [273 kB]
+Get:19 http://br.archive.ubuntu.com/ubuntu bionic-updates/universe DEP-11 48x48 Icons [212 kB]
+Get:20 http://br.archive.ubuntu.com/ubuntu bionic-updates/universe DEP-11 64x64 Icons [483 kB]
+Get:21 http://br.archive.ubuntu.com/ubuntu bionic-updates/universe DEP-11 128x128 Icons [1.047 kB]
+Get:22 http://packages.elementary.io/appcenter bionic/main amd64 Packages [92,0 kB]
+Get:23 http://br.archive.ubuntu.com/ubuntu bionic-updates/multiverse amd64 DEP-11 Metadata [2.468 B]
+Get:24 http://br.archive.ubuntu.com/ubuntu bionic-backports/universe amd64 DEP-11 Metadata [7.980 B]
+Get:25 http://security.ubuntu.com/ubuntu bionic-security/main amd64 DEP-11 Metadata [38,6 kB]
+Get:26 http://ppa.launchpad.net/elementary-os/os-patches/ubuntu bionic InRelease [20,8 kB]
+Get:27 http://security.ubuntu.com/ubuntu bionic-security/main DEP-11 48x48 Icons [17,6 kB]
+Get:28 http://security.ubuntu.com/ubuntu bionic-security/main DEP-11 64x64 Icons [41,5 kB]
+Get:29 http://packages.elementary.io/appcenter bionic/main amd64 DEP-11 Metadata [236 kB]
+Get:30 http://security.ubuntu.com/ubuntu bionic-security/main DEP-11 128x128 Icons [97,7 kB]
+Get:31 http://security.ubuntu.com/ubuntu bionic-security/universe amd64 DEP-11 Metadata [42,1 kB]
+Get:32 http://security.ubuntu.com/ubuntu bionic-security/universe DEP-11 48x48 Icons [16,4 kB]
+Get:33 http://security.ubuntu.com/ubuntu bionic-security/universe DEP-11 64x64 Icons [111 kB]
+Get:34 http://packages.elementary.io/appcenter bionic/main DEP-11 64x64 Icons [475 kB]
+Get:35 http://security.ubuntu.com/ubuntu bionic-security/universe DEP-11 128x128 Icons [169 kB]
+Get:36 http://security.ubuntu.com/ubuntu bionic-security/multiverse amd64 DEP-11 Metadata [2.464 B]
+Get:37 http://packages.elementary.io/appcenter bionic/main DEP-11 64x64@2 Icons [1.007 kB]
+Get:38 http://packages.elementary.io/appcenter bionic/main DEP-11 128x128 Icons [1.009 kB]
+Reading package lists...
+Building dependency tree...
+Reading state information...
+arandr is already the newest version (0.1.9-2).
+The following packages were automatically installed and are no longer required:
+  fwupd fwupd-signed fwupdate fwupdate-signed libfwup1 libfwupd2 libido3-0.1-0
+  libsmbios-c2 libxmlb1
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+OK
+deb [arch=amd64] https://brave-browser-apt-release.s3.brave.com/ bionic main
+Hit:1 http://br.archive.ubuntu.com/ubuntu bionic InRelease
+Get:4 https://brave-browser-apt-release.s3.brave.com bionic InRelease [3.169 B]
+Get:3 http://security.ubuntu.com/ubuntu bionic-security InRelease [88,7 kB]
+Get:2 http://br.archive.ubuntu.com/ubuntu bionic-updates InRelease [88,7 kB]
+Get:6 https://brave-browser-apt-release.s3.brave.com bionic/main amd64 Packages [4.541 B]
+Hit:8 https://deb.nodesource.com/node_13.x bionic InRelease
+Get:5 http://br.archive.ubuntu.com/ubuntu bionic-backports InRelease [74,6 kB]
+Get:9 http://br.archive.ubuntu.com/ubuntu bionic-updates/main amd64 DEP-11 Metadata [307 kB]
+Get:10 http://br.archive.ubuntu.com/ubuntu bionic-updates/main DEP-11 48x48 Icons [73,8 kB]
+Get:11 http://br.archive.ubuntu.com/ubuntu bionic-updates/main DEP-11 64x64 Icons [140 kB]
+Get:12 http://br.archive.ubuntu.com/ubuntu bionic-updates/main DEP-11 128x128 Icons [357 kB]
+Get:13 http://br.archive.ubuntu.com/ubuntu bionic-updates/universe i386 Packages [1.012 kB]
+Get:14 http://br.archive.ubuntu.com/ubuntu bionic-updates/universe amd64 Packages [1.061 kB]
+Get:15 http://br.archive.ubuntu.com/ubuntu bionic-updates/universe amd64 DEP-11 Metadata [273 kB]
+Get:16 http://br.archive.ubuntu.com/ubuntu bionic-updates/universe DEP-11 48x48 Icons [212 kB]
+Get:17 http://br.archive.ubuntu.com/ubuntu bionic-updates/universe DEP-11 64x64 Icons [483 kB]
+Get:18 http://br.archive.ubuntu.com/ubuntu bionic-updates/universe DEP-11 128x128 Icons [1.047 kB]
+Get:19 http://br.archive.ubuntu.com/ubuntu bionic-updates/multiverse amd64 DEP-11 Metadata [2.468 B]
+Get:20 http://br.archive.ubuntu.com/ubuntu bionic-backports/universe amd64 DEP-11 Metadata [7.980 B]
+Hit:21 http://ppa.launchpad.net/obsproject/obs-studio/ubuntu bionic InRelease
+Hit:22 https://dl.yarnpkg.com/debian stable InRelease
+Get:23 http://security.ubuntu.com/ubuntu bionic-security/main amd64 DEP-11 Metadata [38,6 kB]
+Get:24 http://security.ubuntu.com/ubuntu bionic-security/main DEP-11 48x48 Icons [17,6 kB]
+Get:25 http://security.ubuntu.com/ubuntu bionic-security/main DEP-11 64x64 Icons [41,5 kB]
+Get:26 http://security.ubuntu.com/ubuntu bionic-security/main DEP-11 128x128 Icons [97,7 kB]
+Get:27 http://security.ubuntu.com/ubuntu bionic-security/universe amd64 DEP-11 Metadata [42,1 kB]
+Get:28 http://security.ubuntu.com/ubuntu bionic-security/universe DEP-11 48x48 Icons [16,4 kB]
+Get:29 http://security.ubuntu.com/ubuntu bionic-security/universe DEP-11 64x64 Icons [111 kB]
+Get:30 http://security.ubuntu.com/ubuntu bionic-security/universe DEP-11 128x128 Icons [169 kB]
+Get:31 http://security.ubuntu.com/ubuntu bionic-security/multiverse amd64 DEP-11 Metadata [2.464 B]
+Get:32 http://packages.elementary.io/appcenter bionic InRelease [5.908 B]
+Get:34 http://packages.elementary.io/appcenter bionic/main amd64 Packages [92,0 kB]
+Get:35 http://packages.elementary.io/appcenter bionic/main amd64 DEP-11 Metadata [236 kB]
+Get:36 http://packages.elementary.io/appcenter bionic/main DEP-11 64x64 Icons [475 kB]
+Get:37 http://packages.elementary.io/appcenter bionic/main DEP-11 64x64@2 Icons [1.007 kB]
+Get:38 http://packages.elementary.io/appcenter bionic/main DEP-11 128x128 Icons [1.009 kB]
+Hit:39 http://ppa.launchpad.net/philip.scott/elementary-tweaks/ubuntu bionic InRelease
+Get:7 http://ppa.launchpad.net/elementary-os/stable/ubuntu bionic InRelease [15,4 kB]
+Get:33 http://ppa.launchpad.net/elementary-os/os-patches/ubuntu bionic InRelease [20,8 kB]
+Get:40 http://ppa.launchpad.net/elementary-os/stable/ubuntu bionic/main Sources [23,0 kB]
+Get:41 http://ppa.launchpad.net/elementary-os/stable/ubuntu bionic/main amd64 Packages [34,0 kB]
+Get:42 http://ppa.launchpad.net/elementary-os/stable/ubuntu bionic/main i386 Packages [31,0 kB]
+Get:43 http://ppa.launchpad.net/elementary-os/os-patches/ubuntu bionic/main Sources [19,5 kB]
+Get:44 http://ppa.launchpad.net/elementary-os/os-patches/ubuntu bionic/main amd64 Packages [36,8 kB]
+Get:45 http://ppa.launchpad.net/elementary-os/os-patches/ubuntu bionic/main i386 Packages [36,5 kB]
+Fetched 469 kB in 6s (83,8 kB/s)
+Reading package lists...
+Building dependency tree...
+Reading state information...
+7 packages can be upgraded. Run 'apt list --upgradable' to see them.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  fwupd fwupd-signed fwupdate fwupdate-signed libfwup1 libfwupd2 libido3-0.1-0
+  libsmbios-c2 libxmlb1
+Use 'sudo apt autoremove' to remove them.
+The following packages will be upgraded:
+  brave-browser
+1 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+Need to get 86,7 MB of archives.
+After this operation, 3.072 B of additional disk space will be used.
+Get:1 https://brave-browser-apt-release.s3.brave.com bionic/main amd64 brave-browser amd64 1.5.123 [86,7 MB]
+Fetched 86,7 MB in 8s (10,6 MB/s)
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 205473 files and directories currently installed.)
+Preparing to unpack .../brave-browser_1.5.123_amd64.deb ...
+Unpacking brave-browser (1.5.123) over (1.5.122) ...
+Setting up brave-browser (1.5.123) ...
+Processing triggers for desktop-file-utils (0.23-1ubuntu3.18.04.2+elementary2~ubuntu5.0.1) ...
+Processing triggers for bamfdaemon (0.5.3+18.04.20180207.2-0ubuntu1) ...
+Rebuilding /usr/share/applications/bamf-2.index...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Processing triggers for gnome-menus (3.13.3-11ubuntu1.1) ...
+Processing triggers for mime-support (3.60ubuntu1) ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+curl is already the newest version (7.58.0-2ubuntu3.8).
+The following packages were automatically installed and are no longer required:
+  fwupd fwupd-signed fwupdate fwupdate-signed libfwup1 libfwupd2 libido3-0.1-0
+  libsmbios-c2 libxmlb1
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+snapd is already the newest version (2.42.1+18.04).
+The following packages were automatically installed and are no longer required:
+  fwupd fwupd-signed fwupdate fwupdate-signed libfwup1 libfwupd2 libido3-0.1-0
+  libsmbios-c2 libxmlb1
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+gdebi is already the newest version (0.9.5.7+nmu2).
+The following packages were automatically installed and are no longer required:
+  fwupd fwupd-signed fwupdate fwupdate-signed libfwup1 libfwupd2 libido3-0.1-0
+  libsmbios-c2 libxmlb1
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+gedit is already the newest version (3.28.1-1ubuntu1.2).
+The following packages were automatically installed and are no longer required:
+  fwupd fwupd-signed fwupdate fwupdate-signed libfwup1 libfwupd2 libido3-0.1-0
+  libsmbios-c2 libxmlb1
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+gimp is already the newest version (2.8.22-1).
+The following packages were automatically installed and are no longer required:
+  fwupd fwupd-signed fwupdate fwupdate-signed libfwup1 libfwupd2 libido3-0.1-0
+  libsmbios-c2 libxmlb1
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+git is already the newest version (1:2.17.1-1ubuntu0.5).
+The following packages were automatically installed and are no longer required:
+  fwupd fwupd-signed fwupdate fwupdate-signed libfwup1 libfwupd2 libido3-0.1-0
+  libsmbios-c2 libxmlb1
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+snapd is already the newest version (2.42.1+18.04).
+The following packages were automatically installed and are no longer required:
+  fwupd fwupd-signed fwupdate fwupdate-signed libfwup1 libfwupd2 libido3-0.1-0
+  libsmbios-c2 libxmlb1
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+neovim is already the newest version (0.2.2-3).
+The following packages were automatically installed and are no longer required:
+  fwupd fwupd-signed fwupdate fwupdate-signed libfwup1 libfwupd2 libido3-0.1-0
+  libsmbios-c2 libxmlb1
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+net-tools is already the newest version (1.60+git20161116.90da8a0-1ubuntu1).
+The following packages were automatically installed and are no longer required:
+  fwupd fwupd-signed fwupdate fwupdate-signed libfwup1 libfwupd2 libido3-0.1-0
+  libsmbios-c2 libxmlb1
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+
+## Installing the NodeSource Node.js 13.x repo...
+
+
+## Populating apt-get cache...
+
++ apt-get update
+Hit:1 http://br.archive.ubuntu.com/ubuntu bionic InRelease
+Hit:2 http://br.archive.ubuntu.com/ubuntu bionic-updates InRelease
+Hit:3 http://security.ubuntu.com/ubuntu bionic-security InRelease
+Hit:4 http://br.archive.ubuntu.com/ubuntu bionic-backports InRelease
+Hit:5 https://brave-browser-apt-release.s3.brave.com bionic InRelease
+Hit:6 http://ppa.launchpad.net/elementary-os/stable/ubuntu bionic InRelease
+Hit:7 https://deb.nodesource.com/node_13.x bionic InRelease
+Get:8 http://packages.elementary.io/appcenter bionic InRelease [5.908 B]
+Hit:9 http://ppa.launchpad.net/obsproject/obs-studio/ubuntu bionic InRelease
+Hit:10 https://dl.yarnpkg.com/debian stable InRelease
+Hit:11 http://ppa.launchpad.net/elementary-os/os-patches/ubuntu bionic InRelease
+Hit:12 http://ppa.launchpad.net/philip.scott/elementary-tweaks/ubuntu bionic InRelease
+Fetched 5.908 B in 1s (4.076 B/s)
+Reading package lists...
+
+## You seem to be using elementaryOS version hera.
+## This maps to Ubuntu "bionic"... Adjusting for you...
+
+## Confirming "bionic" is supported...
+
++ curl -sLf -o /dev/null 'https://deb.nodesource.com/node_13.x/dists/bionic/Release'
+
+## Adding the NodeSource signing key to your keyring...
+
++ curl -s https://deb.nodesource.com/gpgkey/nodesource.gpg.key | apt-key add -
+OK
+
+## Creating apt sources list file for the NodeSource Node.js 13.x repo...
+
++ echo 'deb https://deb.nodesource.com/node_13.x bionic main' > /etc/apt/sources.list.d/nodesource.list
++ echo 'deb-src https://deb.nodesource.com/node_13.x bionic main' >> /etc/apt/sources.list.d/nodesource.list
+
+## Running `apt-get update` for you...
+
++ apt-get update
+Hit:1 https://deb.nodesource.com/node_13.x bionic InRelease
+Hit:2 https://brave-browser-apt-release.s3.brave.com bionic InRelease
+Hit:3 http://ppa.launchpad.net/elementary-os/stable/ubuntu bionic InRelease
+Get:4 http://packages.elementary.io/appcenter bionic InRelease [5.908 B]
+Hit:5 http://security.ubuntu.com/ubuntu bionic-security InRelease
+Hit:6 https://dl.yarnpkg.com/debian stable InRelease
+Hit:7 http://ppa.launchpad.net/obsproject/obs-studio/ubuntu bionic InRelease
+Hit:8 http://ppa.launchpad.net/elementary-os/os-patches/ubuntu bionic InRelease
+Hit:9 http://ppa.launchpad.net/philip.scott/elementary-tweaks/ubuntu bionic InRelease
+Hit:10 http://br.archive.ubuntu.com/ubuntu bionic InRelease
+Hit:11 http://br.archive.ubuntu.com/ubuntu bionic-updates InRelease
+Hit:12 http://br.archive.ubuntu.com/ubuntu bionic-backports InRelease
+Fetched 5.908 B in 2s (2.600 B/s)
+Reading package lists...
+
+## Run `sudo apt-get install -y nodejs` to install Node.js 13.x and npm
+## You may also need development tools to build native addons:
+     sudo apt-get install gcc g++ make
+## To install the Yarn package manager, run:
+     curl -sL https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+     echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+     sudo apt-get update && sudo apt-get install yarn
+
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+nodejs is already the newest version (13.12.0-1nodesource1).
+The following packages were automatically installed and are no longer required:
+  fwupd fwupd-signed fwupdate fwupdate-signed libfwup1 libfwupd2 libido3-0.1-0
+  libsmbios-c2 libxmlb1
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+OK
+deb https://dl.yarnpkg.com/debian/ stable main
+Hit:1 http://br.archive.ubuntu.com/ubuntu bionic InRelease
+Hit:2 http://br.archive.ubuntu.com/ubuntu bionic-updates InRelease
+Hit:3 http://br.archive.ubuntu.com/ubuntu bionic-backports InRelease
+Hit:4 https://deb.nodesource.com/node_13.x bionic InRelease
+Hit:5 https://brave-browser-apt-release.s3.brave.com bionic InRelease
+Hit:6 http://ppa.launchpad.net/elementary-os/stable/ubuntu bionic InRelease
+Hit:7 http://security.ubuntu.com/ubuntu bionic-security InRelease
+Get:8 http://packages.elementary.io/appcenter bionic InRelease [5.908 B]
+Hit:9 https://dl.yarnpkg.com/debian stable InRelease
+Hit:10 http://ppa.launchpad.net/obsproject/obs-studio/ubuntu bionic InRelease
+Hit:11 http://ppa.launchpad.net/elementary-os/os-patches/ubuntu bionic InRelease
+Hit:12 http://ppa.launchpad.net/philip.scott/elementary-tweaks/ubuntu bionic InRelease
+Fetched 5.908 B in 2s (3.574 B/s)
+Reading package lists...
+Building dependency tree...
+Reading state information...
+6 packages can be upgraded. Run 'apt list --upgradable' to see them.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+yarn is already the newest version (1.22.4-1).
+The following packages were automatically installed and are no longer required:
+  fwupd fwupd-signed fwupdate fwupdate-signed libfwup1 libfwupd2 libido3-0.1-0
+  libsmbios-c2 libxmlb1
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+Hit:1 http://br.archive.ubuntu.com/ubuntu bionic InRelease
+Hit:2 http://br.archive.ubuntu.com/ubuntu bionic-updates InRelease
+Hit:3 http://br.archive.ubuntu.com/ubuntu bionic-backports InRelease
+Hit:4 https://brave-browser-apt-release.s3.brave.com bionic InRelease
+Get:5 http://security.ubuntu.com/ubuntu bionic-security InRelease [88,7 kB]
+Hit:6 http://ppa.launchpad.net/elementary-os/stable/ubuntu bionic InRelease
+Hit:7 https://deb.nodesource.com/node_13.x bionic InRelease
+Hit:8 http://ppa.launchpad.net/obsproject/obs-studio/ubuntu bionic InRelease
+Hit:9 https://dl.yarnpkg.com/debian stable InRelease
+Get:10 http://packages.elementary.io/appcenter bionic InRelease [5.908 B]
+Hit:11 http://ppa.launchpad.net/elementary-os/os-patches/ubuntu bionic InRelease
+Get:12 http://security.ubuntu.com/ubuntu bionic-security/main amd64 DEP-11 Metadata [38,5 kB]
+Hit:13 http://ppa.launchpad.net/philip.scott/elementary-tweaks/ubuntu bionic InRelease
+Get:14 http://security.ubuntu.com/ubuntu bionic-security/main DEP-11 48x48 Icons [17,6 kB]
+Get:15 http://security.ubuntu.com/ubuntu bionic-security/main DEP-11 64x64 Icons [41,5 kB]
+Get:16 http://security.ubuntu.com/ubuntu bionic-security/main DEP-11 128x128 Icons [108 kB]
+Get:17 http://security.ubuntu.com/ubuntu bionic-security/universe amd64 DEP-11 Metadata [42,1 kB]
+Get:18 http://security.ubuntu.com/ubuntu bionic-security/universe DEP-11 48x48 Icons [16,4 kB]
+Get:19 http://security.ubuntu.com/ubuntu bionic-security/universe DEP-11 64x64 Icons [111 kB]
+Get:20 http://security.ubuntu.com/ubuntu bionic-security/universe DEP-11 128x128 Icons [181 kB]
+Get:21 http://security.ubuntu.com/ubuntu bionic-security/multiverse amd64 DEP-11 Metadata [2.464 B]
+Fetched 654 kB in 2s (342 kB/s)
+Reading package lists...
+Hit:1 http://br.archive.ubuntu.com/ubuntu bionic InRelease
+Hit:2 http://br.archive.ubuntu.com/ubuntu bionic-updates InRelease
+Hit:3 https://brave-browser-apt-release.s3.brave.com bionic InRelease
+Hit:4 http://br.archive.ubuntu.com/ubuntu bionic-backports InRelease
+Hit:5 http://security.ubuntu.com/ubuntu bionic-security InRelease
+Hit:6 http://ppa.launchpad.net/elementary-os/stable/ubuntu bionic InRelease
+Hit:7 https://deb.nodesource.com/node_13.x bionic InRelease
+Get:8 http://packages.elementary.io/appcenter bionic InRelease [5.908 B]
+Hit:9 http://ppa.launchpad.net/obsproject/obs-studio/ubuntu bionic InRelease
+Hit:10 https://dl.yarnpkg.com/debian stable InRelease
+Hit:11 http://ppa.launchpad.net/elementary-os/os-patches/ubuntu bionic InRelease
+Hit:12 http://ppa.launchpad.net/philip.scott/elementary-tweaks/ubuntu bionic InRelease
+Fetched 5.908 B in 1s (4.076 B/s)
+Reading package lists...
+Building dependency tree...
+Reading state information...
+6 packages can be upgraded. Run 'apt list --upgradable' to see them.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+ffmpeg is already the newest version (7:3.4.6-0ubuntu0.18.04.1).
+obs-studio is already the newest version (25.0.3-0obsproject0~bionic).
+The following packages were automatically installed and are no longer required:
+  fwupd fwupd-signed fwupdate fwupdate-signed libfwup1 libfwupd2 libido3-0.1-0
+  libsmbios-c2 libxmlb1
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3 is already the newest version (3.6.7-1~18.04).
+The following packages were automatically installed and are no longer required:
+  fwupd fwupd-signed fwupdate fwupdate-signed libfwup1 libfwupd2 libido3-0.1-0
+  libsmbios-c2 libxmlb1
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-pip is already the newest version (9.0.1-2.3~ubuntu1.18.04.1).
+The following packages were automatically installed and are no longer required:
+  fwupd fwupd-signed fwupdate fwupdate-signed libfwup1 libfwupd2 libido3-0.1-0
+  libsmbios-c2 libxmlb1
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+Requirement already satisfied: Django in /home/suicide/.local/lib/python3.6/site-packages
+Requirement already satisfied: asgiref~=3.2 in /home/suicide/.local/lib/python3.6/site-packages (from Django)
+Requirement already satisfied: sqlparse>=0.2.2 in /home/suicide/.local/lib/python3.6/site-packages (from Django)
+Requirement already satisfied: pytz in /home/suicide/.local/lib/python3.6/site-packages (from Django)
+Reading package lists...
+Building dependency tree...
+Reading state information...
+qbittorrent is already the newest version (4.0.3-1).
+The following packages were automatically installed and are no longer required:
+  fwupd fwupd-signed fwupdate fwupdate-signed libfwup1 libfwupd2 libido3-0.1-0
+  libsmbios-c2 libxmlb1
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3 is already the newest version (3.6.7-1~18.04).
+The following packages were automatically installed and are no longer required:
+  fwupd fwupd-signed fwupdate fwupdate-signed libfwup1 libfwupd2 libido3-0.1-0
+  libsmbios-c2 libxmlb1
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+rofi is already the newest version (1.5.0-1).
+The following packages were automatically installed and are no longer required:
+  fwupd fwupd-signed fwupdate fwupdate-signed libfwup1 libfwupd2 libido3-0.1-0
+  libsmbios-c2 libxmlb1
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+<Super> + d -> open rofi
+Reading package lists...
+Building dependency tree...
+Reading state information...
+snapd is already the newest version (2.42.1+18.04).
+The following packages were automatically installed and are no longer required:
+  fwupd fwupd-signed fwupdate fwupdate-signed libfwup1 libfwupd2 libido3-0.1-0
+  libsmbios-c2 libxmlb1
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+software-properties-common is already the newest version (0.96.24.32.12+elementary17~ubuntu5.1.1).
+The following packages were automatically installed and are no longer required:
+  fwupd fwupd-signed fwupdate fwupdate-signed libfwup1 libfwupd2 libido3-0.1-0
+  libsmbios-c2 libxmlb1
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+snapd is already the newest version (2.42.1+18.04).
+The following packages were automatically installed and are no longer required:
+  fwupd fwupd-signed fwupdate fwupdate-signed libfwup1 libfwupd2 libido3-0.1-0
+  libsmbios-c2 libxmlb1
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+steam:i386 is already the newest version (1:1.0.0.54+repack-5ubuntu1).
+The following packages were automatically installed and are no longer required:
+  fwupd fwupd-signed fwupdate fwupdate-signed libfwup1 libfwupd2 libido3-0.1-0
+  libsmbios-c2 libxmlb1
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+terminator is already the newest version (1.91-1).
+The following packages were automatically installed and are no longer required:
+  fwupd fwupd-signed fwupdate fwupdate-signed libfwup1 libfwupd2 libido3-0.1-0
+  libsmbios-c2 libxmlb1
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+vim-gtk3 is already the newest version (2:8.0.1453-1ubuntu1.3).
+The following packages were automatically installed and are no longer required:
+  fwupd fwupd-signed fwupdate fwupdate-signed libfwup1 libfwupd2 libido3-0.1-0
+  libsmbios-c2 libxmlb1
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+snapd is already the newest version (2.42.1+18.04).
+The following packages were automatically installed and are no longer required:
+  fwupd fwupd-signed fwupdate fwupdate-signed libfwup1 libfwupd2 libido3-0.1-0
+  libsmbios-c2 libxmlb1
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+wget is already the newest version (1.19.4-1ubuntu2.2).
+The following packages were automatically installed and are no longer required:
+  fwupd fwupd-signed fwupdate fwupdate-signed libfwup1 libfwupd2 libido3-0.1-0
+  libsmbios-c2 libxmlb1
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+zsh is already the newest version (5.4.2-3ubuntu3.1).
+The following packages were automatically installed and are no longer required:
+  fwupd fwupd-signed fwupdate fwupdate-signed libfwup1 libfwupd2 libido3-0.1-0
+  libsmbios-c2 libxmlb1
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 6 not upgraded.
+You already have Oh My Zsh installed.
+You'll need to remove '/home/suicide/.oh-my-zsh' if you want to reinstall.

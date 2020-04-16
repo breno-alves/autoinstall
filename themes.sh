@@ -9,3 +9,7 @@ sudo apt-get -y -f install gnome-tweaks
 echo "installing elementary-tweaks"
 sudo add-apt-repository ppa:philip.scott/elementary-tweaks
 sudo apt install elementary-tweaks
+
+echo "installing nerd-fonts..."
+git clone https://github.com/ryanoasis/nerd-fonts.git ~/Downloads/nerd-fonts
+sudo bash ~/Downloads/nerd-fonts/install.sh 
